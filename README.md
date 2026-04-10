@@ -35,6 +35,6 @@ SillyTavern용 확장입니다.
 
 ## 참고
 
-- 번역문 저장 필드(`message.extra.display_text`) 및 숨김 메시지 감지 방식(`message.is_system`)은 [llm-translator](https://github.com/1234anon/llm-translator)와 [ggang-copy](https://github.com/ggang-copy) 소스를 각 참고했습니다.
+- 번역문 저장 필드(`message.extra.display_text`) 및 숨김 메시지 감지 방식(`message.is_system`)은 [llm-translator](https://github.com/1234anon/llm-translator)와 [ggang-copy](https://github.com/Unknown-7069/ggang-copy) 를 각 참고했습니다.
 - 클립보드 복사·TXT 저장·공백 정리 패턴은 ggang-copy 확장을 참고했습니다.
 
