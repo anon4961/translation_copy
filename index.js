@@ -1,6 +1,6 @@
 // ===================================================================
-// 번역문 내보내기 (translation-exporter)
-// llm-translator-custom 확장의 번역문(message.extra.display_text)과
+// 번역문 내보내기 (translation-copy)
+// 번역문(message.extra.display_text)과
 // 원문(message.mes)을 범위 지정하여 클립보드 복사 / txt 저장하는 확장
 // ===================================================================
 
